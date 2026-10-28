@@ -2,7 +2,7 @@
 
 Curious mind teaching myself Python & AI. Learning in public, one commit at a time.
 
-📍 Berlin, Germany · 💼 LinkedIn
+📍 Berlin, Germany · 💼 [LinkedIn] (https://www.linkedin.com/in/carolina-morgado-35863917b/)
 
 
 # About me
